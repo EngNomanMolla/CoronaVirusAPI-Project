@@ -37,8 +37,8 @@ public class MainActivity extends AppCompatActivity {
                 public void onResponse(Call<ModelClass> call, Response<ModelClass> response) {
                     if(response.isSuccessful()){
                         List<ModelClass> userList= (List<ModelClass>) response.body();
-                        //int cases=  userList.get(0).getCases();
-                      //  totalCasesTextView.setText(cases);
+                        int cases=  userList.get(0).getCases();
+                       totalCasesTextView.setText(cases);
 
                     }
                     else {

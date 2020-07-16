@@ -7,4 +7,5 @@ public interface ApiServics {
     @GET("/countries/bangladesh")
     Call<ModelClass> getData();
 
+
 }
