@@ -16,9 +16,11 @@
             android:layout_height="match_parent">
 
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                app:cardBackgroundColor="#5B7EDC"
+                app:cardBackgroundColor="#C670F1"
                 app:cardCornerRadius="10dp"
                 app:cardElevation="6dp"
                 app:cardUseCompatPadding="true">
@@ -28,7 +30,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:text="Total Cases"
@@ -55,6 +57,9 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#46C2D5"
@@ -67,7 +72,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -92,6 +97,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#83E146"
@@ -104,7 +111,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -130,6 +137,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#9558EA"
@@ -142,7 +151,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -167,6 +176,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#56C1B2"
@@ -179,7 +190,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -206,6 +217,8 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#E8CD40"
@@ -218,7 +231,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -243,6 +256,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#E33F88"
@@ -255,7 +270,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -281,6 +296,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#2FCF41"
@@ -293,7 +310,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -318,6 +335,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#FF851B"
@@ -330,7 +349,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -355,6 +374,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#01FF70"
@@ -367,7 +388,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
@@ -393,6 +414,8 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 app:cardBackgroundColor="#7FDBFF"
@@ -405,7 +428,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <TextView
-                        android:paddingTop="15dp"
+                        android:paddingTop="7dp"
                         android:layout_gravity="center_horizontal"
                         android:fontFamily="serif-monospace"
                         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
